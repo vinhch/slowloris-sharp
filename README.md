@@ -1,1 +1,2 @@
-# slowloris-sharp
+# slowloris-sharp project
+FAP - For Academic Purposes
